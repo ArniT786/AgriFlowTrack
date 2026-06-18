@@ -7,6 +7,8 @@ The AgriFlowTrack database is designed to manage agricultural production, harves
 ---
 
 ERD diagram: ![alt text](<erd pic-1.png>)
+<img width="1408" height="768" alt="erd pic" src="https://github.com/user-attachments/assets/4f0f2c40-0a72-4b4a-ae01-a59408365b39" />
+
 
 ## Entities
 
